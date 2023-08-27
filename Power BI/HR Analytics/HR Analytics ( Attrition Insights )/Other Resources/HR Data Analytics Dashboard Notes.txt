@@ -1,0 +1,17 @@
+Head KPI - Overall Employees, Attrition, Attrition Rate%, Active Employee, Average Salary and Average Age.
+
+Filter -- Education - Slicer
+
+Atrition by Gender - Plot chart 
+
+First Row:
+
+1. Department wise Attrition -- Pie Chart
+2. Attrition by Education -- Hor_bar or Donut chart
+3. No. of Employee by Age Group -- bar chart
+4. Attrition by Job role -- Hor_bar chart
+
+Second Row:
+
+1. Attrition Rate by Gender for different age group -DC
+2. Job Satisfaction Rating -- Table  
